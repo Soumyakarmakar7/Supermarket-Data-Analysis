@@ -1,3 +1,5 @@
+![Screenshot (1)](https://github.com/Soumyakarmakar7/Supermarket-Data-Analysis/assets/157953623/571ea8e5-c7da-4fb5-9c07-f0bf6ac1d9ba)
+
 # Supermarket-Data-Analysis    
 # Introduction :
 In the rapidly evolving retail landscape, supermarkets play a pivotal role in catering to the diverse needs of consumers. With the advent of technology, supermarkets now generate vast amounts of data through various channels, including point-of-sale (POS) systems, customer loyalty programs, online transactions, and supply chain operations. Analyzing this data can provide valuable insights for supermarkets to optimize their operations, enhance customer experiences, and make informed business decisions.
