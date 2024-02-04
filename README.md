@@ -57,7 +57,9 @@ In the rapidly evolving retail landscape, supermarkets play a pivotal role in ca
 
 In conclusion, the supermarket data analysis project provides actionable insights that, when translated into targeted marketing strategies, have the potential to significantly boost store sales and foster long-term customer loyalty. This approach aligns with the supermarket's goal of staying competitive in a dynamic retail landscape while meeting the unique needs of its diverse customer base.
 
-
+## Created by
+**Soumya Karmakar** 
+(*Data Analyst*)
 
 
 
